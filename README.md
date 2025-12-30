@@ -1,4 +1,4 @@
-  # **I'm Harshvardhan Sharma**
+                                                                               # I'm Harshvardhan Sharma
   # 💫 About Me:
 💻 What I Do<br>Learning Data Structures & Algorithms<br>Exploring Full Stack Development<br>Working with Java, Python, React, MERN stack<br>Interested in Cloud, DevOps, and AI basics<br>🎯 My Goals<br>Build real-world projects<br>Improve coding logic & efficiency<br>Grow as a skilled software developer<br>Prepare for placements & tech interviews<br>🌱 Currently Learning<br>Algorithms & Graphs<br>Web Development<br>Cloud & modern tools<br>✨ Strengths<br>Consistent & focused<br>Loves clean and simple solutions
 
